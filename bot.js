@@ -288,4 +288,4 @@ client.on("guildMemberAdd", async (member, message) => {
 });
 
 // BOTUN TOKENİNİ ÇEKEN KOD
-client.login(ayarlar.token);
+client.login(process.env.DISCORD_TOKEN);
