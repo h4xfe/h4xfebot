@@ -1,5 +1,5 @@
 {
-  "token": "OTA1MjE0NzI4ODcwMTkxMTY0.YYG06Q.MYs8vTlyBLSd7eRuU2W7uZecjVc",
+  "token": process.env.DISCORD_TOKEN,
   "prefix": ".",
   "yapımcı": "760575247706751027"
 }
