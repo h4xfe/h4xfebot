@@ -1,0 +1,22 @@
+{
+  "name": "dimasyan-usta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^11.6.4",
+    "ffmpeg-static": "4.2.7",
+    "fs": "^0.0.2",
+    "fs-extra": "^9.0.1",
+    "moment": "2.22.2",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
